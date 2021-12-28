@@ -1,12 +1,6 @@
-h1{
-    color: red;
-}
-*{
-    color: hotpink;
-    border: green;
-    border-style: solid;
-}
-
-.header{
-    color: rgb(240, 140, 182);
+table,
+th,
+td {
+  border: 1px solid rgb(134, 44, 44);
+  margin-left: auto;
 }
